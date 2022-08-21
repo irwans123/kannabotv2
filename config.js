@@ -51,11 +51,11 @@ global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
+global.pdana = '-'
+global.povo = '-'
+global.pgopay = '-'
+global.ppulsa = '-'
+global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
@@ -67,9 +67,6 @@ global.nameown = 'IrwanS'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281331998730'],
-  ['6281331998730'],
-  ['6281331998730'],
   ['6281331998730', 'irwans', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -116,11 +113,11 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '                「  XBOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Ƙαnnα 𝗕𝗢𝗧'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘xbot˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Xbot'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
+global.titlebot = '🌱 ┊ Xbot Whatsapp ʙᴏᴛ'
 global.author = global.wm
 
 
@@ -174,7 +171,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\n𝗞\na\nn\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎\nX\nb\no\nt\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
